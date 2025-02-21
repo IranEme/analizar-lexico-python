@@ -1,0 +1,11 @@
+
+#Ejemplo de comentario, asbcsdnisndsndksndksndksndksndksd
+#Otro comentario
+
+j = k + y
+
+j = k.a
+
+int texto	
+
+
